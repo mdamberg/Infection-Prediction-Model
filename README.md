@@ -7,7 +7,7 @@ The project utilizes a Random Forest algorithm, selected for its ability to hand
 
 
 
-The model was evaluated using metrics such as Mean Squared Error (MSE) and Root Mean Squared Error (RMSE), achieving a 95.68% lower error rate than baseline predictions, an MSE of 0.254 and an RMSE of 0.504. These results underscore the model’s reliability and predictive accuracy.
+The model was evaluated using metrics such as Mean Squared Error (0.155) and Root Mean Squared Error (0.394), achieving a 96.93% lower error rate than baseline predictions. These results underscore the model’s reliability and predictive accuracy.
 
 
 
