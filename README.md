@@ -1,2 +1,14 @@
 # Infection-Prediction-Model
-An Infection Prediction Model using a Random Forest algorithm to assign health, vaccine history, and infection risk scores. By analyzing demographics, chronic conditions, and risk factors, the model forecasted infection likelihood with strong accuracy (e.g., RMSE: X), enabling proactive strategies to reduce infection rates and improve outcomes.
+This project documents the creation of a robust Infection Prediction Model designed to enhance patient outcomes and infection prevention efforts. The model combines copious amounts of patient data and assigns multiple scores, including health risk scores, vaccine history scores, and an overall infection risk score, to provide a comprehensive assessment of each patient's likelihood of future infections. Leveraging this model will allow members of the healthcare team assume a proactive approach to infection prevention, instead of a reactive. 
+
+
+
+The project utilizes a Random Forest algorithm, selected for its ability to handle complex, non-linear relationships within the data. Key features analyzed included patient demographics, chronic conditions, vaccine histories, and other infection risk factors. Rigorous data preprocessing, feature engineering, and model tuning were conducted to ensure optimal performance.
+
+
+
+The model was evaluated using metrics such as Mean Squared Error (MSE) and Root Mean Squared Error (RMSE), achieving a 95.68% lower error rate than baseline predictions, an MSE of 0.254 and an RMSE of 0.504. These results underscore the model’s reliability and predictive accuracy.
+
+
+
+By integrating these predictions into actionable insights, the project enables healthcare teams to adopt targeted interventions, reduce infection rates, and allocate resources effectively. This work demonstrates the potential of data-driven solutions to transform infection control practices and enhance overall patient outcomes.
